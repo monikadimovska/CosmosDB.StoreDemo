@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Store.API/bin/Debug/net7.0
+/Store.API/obj
+*.user
+*.pubxml
+/UpdateCategoryName.Function/Properties/serviceDependencies.update-category-name - Zip Deploy.json
+/UpdateCategoryName.Function2/Properties/ServiceDependencies/UpdateCategoryNamev2 - Zip Deploy
+/UpdateCategoryName.Function2/Properties/ServiceDependencies/local/cosmosdb1.arm.json
+/UpdateCategoryName.Function/Properties/ServiceDependencies/update-category-name - Zip Deploy
+/UpdateCategoryName.Function2/Properties/serviceDependencies.UpdateCategoryNamev2 - Zip Deploy.json
